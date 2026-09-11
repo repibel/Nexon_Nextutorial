@@ -12,6 +12,7 @@
 5. [3D 좌표계 변환 & 렌더링 파이프라인](#5-3d-좌표계-변환--렌더링-파이프라인)
 6. [핵심 요약 암기 카드 (Quick Review)](#6-핵심-요약-암기-카드-quick-review)
 
+etc. https://share.gemini.google/KqC9FQqNsRK7 / gemini상에서 확인 가능한 세부 정보
 ---
 
 ## 1. 게임 프로그래머의 5대 기본기 개요
@@ -117,6 +118,11 @@
 * 💡 **Vector vs Linked List**: 순회 연산이 많으면 캐시 효율이 좋은 `Vector`가 유리!
 * 💡 **A* 알고리즘 핵심 공식**: $F = G + H$ ($G$: 시작점~현재 거리, $H$: 현재~목적지 예상 거리)
 * 💡 **벡터 내적 활용**: $\mathbf{a} \cdot \mathbf{b} > 0$ 이면 전방 시야 내부!
-* 💡 **행렬 연산 순서**: SRT (Scale $ightarrow$ Rotation $ightarrow$ Translation)
-* 💡 **렌더링 3단계 행렬**: Local $ightarrow$ **World** $ightarrow$ **View** $ightarrow$ **Projection**
+* 💡 **행렬 연산 순서**: SRT (Scale $
+ightarrow$ Rotation $
+ightarrow$ Translation)
+* 💡 **렌더링 3단계 행렬**: Local $
+ightarrow$ **World** $
+ightarrow$ **View** $
+ightarrow$ **Projection**
 * 💡 **Z-Buffer**: 카메라 기준 물체 깊이값을 비교하여 뒤에 가려진 픽셀을 버리는 기술!
