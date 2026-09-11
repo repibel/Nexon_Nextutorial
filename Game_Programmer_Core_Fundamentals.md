@@ -12,7 +12,7 @@
 5. [3D 좌표계 변환 & 렌더링 파이프라인](#5-3d-좌표계-변환--렌더링-파이프라인)
 6. [핵심 요약 암기 카드 (Quick Review)](#6-핵심-요약-암기-카드-quick-review)
 
-etc. https://share.gemini.google/KqC9FQqNsRK7 / gemini상에서 확인 가능한 세부 정보
+https://share.gemini.google/KqC9FQqNsRK7 / gemini상에서 확인 가능한 세부 정보
 ---
 
 ## 1. 게임 프로그래머의 5대 기본기 개요
